@@ -28,23 +28,4 @@
   <img src="https://img.shields.io/badge/Automation-FF6F00?style=for-the-badge&logo=githubactions&logoColor=white" alt="Automation" />
 </p>
 
----
-
-### 🧁 When I'm Not Coding
-
-  [🎧 Music Vibes] ────> [🎮 Gaming] ────> [😴 Sleeping]
-         ^                                        |
-         └────────────────── Loop ────────────────┘
-
-📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ItzPihu&show_icons=true&theme=catppuccin_latte&hide_border=true" alt="GitHub Stats" width="85%" />
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsPihu&layout=compact&theme=catppuccin_latte&hide_border=true" alt="Top Langs" width="85%" />
-</p>
-<p align="center">
-<i>Thanks for stopping by! (◕‿◕✿)</i>
-</p>
-</div>
 
