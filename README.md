@@ -32,7 +32,6 @@
 
 ### 🧁 When I'm Not Coding
 
-```text
   [🎧 Music Vibes] ────> [🎮 Gaming] ────> [😴 Sleeping]
          ^                                        |
          └────────────────── Loop ────────────────┘
